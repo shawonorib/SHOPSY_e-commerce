@@ -2,6 +2,9 @@
 
 **Shopsy** is a modern and dynamic eCommerce platform designed to provide users with a seamless shopping experience. Whether you're a small business owner looking to sell products or a shopper looking for the best deals, Shopsy brings a variety of features to cater to both customers and vendors. The website focuses on delivering a clean, intuitive design and robust functionality to make online shopping enjoyable and efficient.
 
+![Screenshot](https://github.com/user-attachments/assets/a33f8fa4-0c52-403a-acd7-da4e9e89815f)
+
+
 ---
 
 ## 🚀 Key Features
