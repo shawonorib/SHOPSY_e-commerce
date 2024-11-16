@@ -44,7 +44,7 @@ Welcome to our React Vite project! This repository contains free code and assets
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/shawonorib/SHOPSY_e-commerce.git]
+https://github.com/shawonorib/SHOPSY_e-commerce.git
 ```
 
 2. Navigate to the project directory:
